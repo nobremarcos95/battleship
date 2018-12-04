@@ -1,2 +1,2 @@
 # navalBattle
-The naval battle game made in C.
+The battleship game made in C.
